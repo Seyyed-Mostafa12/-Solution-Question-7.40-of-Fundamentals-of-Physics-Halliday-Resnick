@@ -1,6 +1,5 @@
-# -Solution-Question-7.40-of-Fundamentals-of-Physics-Halliday-Resnick
+# Solution Question 7.40 of "Fundamentals of Physics Halliday Resnick"
 This section contains 5000 data decompositions for manual calculation of the integral
-
 
 This section contains 5000 data decompositions for manual calculation of the integral of question 40.
 + The code file is solved in 3 ways:
